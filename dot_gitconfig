@@ -1,0 +1,8 @@
+[user]
+	name = Cai Yaohao
+	email = cai_yaohao@163.com
+[core]
+	editor = vim
+	ui = true
+[alias]
+    graph = log --all --graph --decorate --oneline
